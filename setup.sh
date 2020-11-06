@@ -19,6 +19,6 @@ source ~/.bashrc
 clr 32
 echo -e"Install Complted"
 clr 37
-c
+
 
 
