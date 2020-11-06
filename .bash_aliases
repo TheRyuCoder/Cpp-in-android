@@ -22,4 +22,4 @@ alias C="C"
 alias cpp="cpp"
 alias lsf="ls | grep $1"
 clr 32
-c
+
