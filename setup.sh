@@ -17,7 +17,9 @@ cp .bash_aliases -r ~
 cp .bashrc -r ~
 source ~/.bashrc
 clr 32
-echo -e "Install Complted"
+echo -e "All set ready to go"
+clr 31
+echo -e "Restart the termux and type alias to see full alias"
 clr 37
 
 
