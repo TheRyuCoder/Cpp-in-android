@@ -24,5 +24,8 @@ alias cpp="cpp"
 alias lsf="ls | grep $1"
 alias pkf="pkg list-all | grep $1"
 alias pkl="pkg list-all"
+alias pki="pkg install $1"
+alias ppi="pip install $1"
+alias ati="apt install $1"
 clr 32
 
