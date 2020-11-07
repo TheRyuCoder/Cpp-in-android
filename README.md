@@ -6,9 +6,12 @@ And
 cpp filename 
 for c++ programming
 
-This setup also includes some esay short cut commamds
+This setup also includes some esay short cut command
 It can be found by typing cmd
-This file may cause to unlink some cammands like python
+This file may cause to unlink some command like python
 If you face this knid of problem you have to uninstall
-Custom cammands 
+custom commands
+
 By entering rmf .bashrc
+rmf is found in .bash_alias after removing .bashrc 
+It wont work
